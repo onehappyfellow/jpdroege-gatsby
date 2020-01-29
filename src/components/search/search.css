@@ -1,0 +1,7 @@
+.input--primary {
+    background: hsl(222, 71%, 95%);
+    border: 2px solid hsl(227, 12%, 85%);
+    border-radius: 1rem;
+    padding: .2rem .4rem;
+    width: 480px;
+}
