@@ -3,7 +3,7 @@ Personal site for tinkering, trying out various not entirely work related stuff,
 
 ## Stuff to do
 - import relevant pieces of starter
-- import translation content
+- import translation content from https://github.com/onehappyfellow/droege
 - create translation templates
 - create translation pages
 - import portfolio content
