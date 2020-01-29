@@ -24,6 +24,13 @@ module.exports = {
         name: `assets`,
       },
     },
+    { // allFile(filter: { sourceInstanceName: { eq: "translation" } })
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/translation`,
+        name: `translation`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
