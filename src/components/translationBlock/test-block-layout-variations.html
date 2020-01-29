@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    .text{
+      width:500px;
+      margin:auto;
+      background-color:#ccc;
+      padding:10px;
+      display:grid;
+      grid-gap:10px;
+      grid-template-columns: repeat(5, 1fr);
+      overflow:hidden;
+    }
+    .kr{
+      grid-column: 1 / 5;
+    }
+    .en{
+      grid-column: 2 / 6;
+    }
+	.text>h2, .text>h2.left.shift{
+	  grid-column: 1 / 6;
+	  transform: none !important;
+	  text-align: center;
+	  color: #F77F00;
+	  font-size: 2.2em;
+	  font-weight: bold;
+	}
+	.text>h2.shift, .text>h2.left{
+	  font-size: 0.8em;
+	  align-self: flex-end;
+	}
+    .left{
+      transform: translateX(-80%);
+      transition: 0.5s;
+    }
+
+	.left.shift{
+	  transform: translateX(0);
+	}
+    .right{
+      transition: 0.5s;
+    }
+	.right.shift{
+	  transform: translateX(80%);
+	}
+
+  </style>
+</head>
+<body>
+
+<div class="text" style="width:500px;margin:auto;background-color:#ccc;">
+  <button class="btn" onclick="toggleLanguage()">KR</button>
+  <h2 class="en right" style="grid-row:1;" data-row="1">Translation Example</h2>
+  <p class="en right" style="grid-row:2;" data-row="2">Test 2 Translating Korean into English takes a very long time. Rather than directly translating confusing and difficult lines, you have to know what feeling they convey and translate that.</p>
+  <p class="en right" style="grid-row:3;" data-row="3">Test 3 Translating Korean into English takes a very long time. Rather than directly translating confusing and difficult lines, you have to know what feeling they convey and translate that.</p>
+  <p class="en right" style="grid-row:4;" data-row="4">Test 4 Translating Korean into English takes a very long time. Rather than directly translating confusing and difficult lines, you have to know what feeling they convey and translate that.</p>
+  <h2 class="kr left" style="grid-row:1;" data-row="1">번역 시험문</h2>
+  <p class="kr left" style="grid-row:2;" data-row="2">Test 2 한국어를 영어로 번역하려면 시간 꽤 많이 걸려요. 너무 복잡하고 힘든 글을 직접적으로 바꾸는게 보다는 어떠한 느김인지를 알고 그렇게 써야 되기 대문이다.</p>
+  <p class="kr left" style="grid-row:3;" data-row="3">Test 3 한국어를 영어로 번역하려면 시간 꽤 많이 걸려요. 너무 복잡하고 힘든 글을 직접적으로 바꾸는게 보다는 어떠한 느김인지를 알고 그렇게 써야 되기 대문이다.</p>  
+  <p class="kr left" style="grid-row:4;" data-row="4">Test 4 한국어를 영어로 번역하려면 시간 꽤 많이 걸려요. 너무 복잡하고 힘든 글을 직접적으로 바꾸는게 보다는 어떠한 느김인지를 알고 그렇게 써야 되기 대문이다.</p>  
+</div>
+
+<script>
+  const paragraphs = document.querySelector('.text').childNodes;
+  function shift(e) {
+    //console.log(this.dataset.row);
+	const a = document.querySelectorAll('[data-row]');
+	a.forEach(a => {if (a.dataset.row == this.dataset.row) a.classList.toggle('shift'); });
+  }
+  paragraphs.forEach(p => p.addEventListener('click',shift));
+  function toggleLanguage(){
+	const button = document.querySelector('.btn');
+	const toSecondary = (button.innerText === 'KR');
+	const a = document.querySelectorAll('[data-row]');
+	
+	a.forEach(a => {
+		if (toSecondary) a.classList.add('shift');
+		else a.classList.remove('shift');
+	});
+	button.innerText = toSecondary ? 'EN' : 'KR';
+  }
+</script>
+
+</body>
+</html>
