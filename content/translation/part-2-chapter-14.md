@@ -1,6 +1,8 @@
 ---
-pageNumber: 27
-draft: false
+date: 2020-01-31T17:25:31.693Z
+title: Chapter 14
+pageNumber: 60
+draft: true
 
 part:
     number: 2
@@ -8,7 +10,7 @@ part:
     en: "A Great Masterpiece, me"
 
 chapter:
-    number: 5
+    number: 14
     ko: "고난으로 단단해진 영혼"
     en: "The Soul Strengthened by Hardships"
 ---

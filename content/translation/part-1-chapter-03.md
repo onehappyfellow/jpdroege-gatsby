@@ -1,5 +1,7 @@
 ---
-pageNumber: 19
+date: 2020-01-31T17:25:31.687Z
+title: Chapter 3
+pageNumber: 22
 draft: false
 
 part:
@@ -9,8 +11,8 @@ part:
 
 chapter:
     number: 3
-    ko: "내가 더 알고 싶은, 진짜 하나님"
-    en: "The Real God, the one I want to know more"
+    ko: "내 인생의 주인"
+    en: "The Lord of My Life"
 ---
 흔히 재능이나 역량이 뛰어난 사람이 하나님의 일을 이룬다고 생각하지만, 그것은 착각입니다. 하나님은 어떤 일을 이루고자 사람을 사용하실 때 특별 훈련을 시키시는데, 바로 '할수 있다'는 생각과 '할수 없다'는 **생각을 내려놓는 훈련** 입니다.
 

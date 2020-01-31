@@ -1,0 +1,32 @@
+---
+date: 2020-01-31T17:25:31.697Z
+title: Chapter 27
+pageNumber: 100
+draft: true
+
+part:
+    number: 3
+    ko: "섬김의 대상, 이웃"
+    en: "Neighbors, those we serve"
+
+chapter:
+    number: 27
+    ko: "혈과 육의 싸움이 아닌 영적 전쟁"
+    en: "Spiritual Warfare, Not a Fight of Flesh and Blood"
+---
+
+혈과육의씨움이 ,아닌영적전쟁 ,다윗온용유한사랍이었습니다 미친왕사용이자신용죽이려 했옴에도끌까지 ,대적하지 없i습니다. 하나닝。l 캡부요신 왕이라는 이유 때문이었슐니다. 다 ,윗은 긍흩이 많온 사람이었습니다 사올의 손자 므비보셋올 선대했고， 적장의 죽 ,옴을 애도했습니다 다윗용 축복의 사람이었습니다. 자손과 이웃， 나라의 장래가 ,형통하기를 간절히 바랐습니다. 다윗온하나님의 마음에 꼭들어맞는사람 ,이었슐니다. ,그런데 이렌 다윗도 용노에 휩싹인 나머지 이성을 완전히 잃어버린 적이 있 ,었습니다. 사올융 피해 도망하던 시절， 다윗용 나발이라는 지역 유지에게 도움율 ,요청합니다. 그런데 나발용 다윗율 모욕하고 조롱하며 부탁율 거절합니다. 이에 ,다윗용 맹렬히 분노합니다. 나발 가운의 모든 남자훌 죽이겠다는 극단적인 반웅 ,을보이여 군사률웅직업니다 ,당시 다윗은 정부군에게 쫓기는 도망자 신세였습니다. 식량이 바닥나고 몽도 ,마옴도 지철 대로 지쳐서 자기 한 폼 살피기도 힘든 판이었는데， 자신융 따라다 ,니는 αm여 명의 군사들까지 책임져야 했습니다. 벼랑 끝에 내몰린 것 잡용 상황 ,애서 쌓인 극도의 긴장파 스트레스가 나방의 배은망덕한 태도륜 계기로 결국 폭 ,발하고 맙니다. 무엇이든 파괴할 것 같은 분노와 충흥적인 앵동온사울의 모습과 ,매우 닮아 있었습니다. 그 순간 다윗은 모든 합리적인 판단력융 앓고 맙니다 도 ,망자 생활융 할 때 훈련했던 거북함도， 기릅부옴 받은 왕으로서의 정체성도， 원 ,수 사올조차 하나님의 사랍으로 보았던 믿옴의 눈까지 모두 잃었습니다. 그 순 ,다윗의 눈에는 죽여야안 원한이 풀렬 것 같은 나발만 보입니다. 나밭이 준 모 ,욕과 멸시륭 되갚고 싶었습니다. 다윗의 분노는 피로와스트레스를 연료 삼아 강 ,렬히 타오료기 시작했습니다 의도적인 공격과 비난까지 하나닝의 섭리로 이혜 ,하던 다윗이， 좁은 생각과 혈기에 사로잡혀 복수심에 불타오르기 시작합니다. 그 ,누구도 다윗용 막을 수 없었습니다. 대살육이 벌어질 순간이었습니다， ,바로 그 순간， 나발의 아내 아비가일이 다윗융 찾아와 엎드려 간절히 말합니 ,다 ·원수 갚는 것은 장군님이 하설 일이 아닙니다 나발 같용 어리석용 자 때문 ,에 무고한 피환 훌리라고 하나님이 장군님올 여기까지 인도하신 것이 아니지 않 ,습니까?’ 다윗은 아비가일의 말용 풍해 하나님의 용성을 돋슐니다. 그계야 분노 ,를 흘이키고 정신을 차립니다 지신이 무엇과 어떻게 싹워야 하는지 분별하지 못 ,했옴을깨닫습니다 ,문제와 허정， 특히 사랍들의 연약함과 실수에만 초정을 맞추어 분노하고， 허 ,몰융 덮어 주지는 뭇항앙정 공공연하게 험담을 일삼는 사링를이 있슐니다 그런 ,사랍들은 교회와 신앙 공동체 안에도 존재합니다 ,그리스도인은‘하나님의 사람’입니다 하나님의 시각으로 바라보고 생 ,각하며， 그분의 지혜용 구해야 ';1는 사람들입니다 우리는 사랍과 상황， 혈과 육 ,이 아닌 하늘에 속한 영적인 눈으로 모든 상횡을 분별하고 판단해야 합니다. ,형제틀아 내가 이것용 말하노니 현과 육은 하나넘 나라갚 이어 받용 수 없고 또 ,한 썩는 것은 썩지 아니하는 것응 유영으로 받지 못하느니라(고진 15.50)‘ ,우리의 써김은 현과 육윤 상대하는 것이 아니요 몽치자듣과 권써듣고} 이 어둥의세상주관자한}하늘에 있는악의 영등올상대함이라(엠6:121 ,사탄온 당장 보고 싶용 것만 보재 만듭니다. 이는 우리가 주님의 뜻융 따라 ,살지 못하게 방해하려는 사단의 첫 번째 전략입니다 혈과 육에 온 힘과 관심올 ,쏟은 나머지， 정작 중요한 것틀을 잊재 하는 것입니다. 우리는 사탄에게 지지 알 ,아야 합니다. 참기 헝틀 정도의 일이 닥치더라도 육신으로 반옹하지 말。}야 합니 ,다 모든상황가운데 하나님이 함께하신다는 믿옴으로 반웅해야 합니다 ,외적 원인파 내적 원인， 마땅히 해야 할 것과 하나님께 맡겨야 함 것을 분명한 후 ,어떤 반웅을 보일지 선택해야 합니다. ,우리는 하나닝의 일용 이루려고 부릉 받았습니다 외적인 것이나 육신을 따 ,르연， 결코 하나님의 일융 앵할 수 없습니다. 그러니 장옷된 것율 향한 시선과 관 ,심올 모두 멈추어야 합니다.당신의 눈길은지금 어디에 머물고 있습니끼?
+
+
+  Spiritual Warfare, Not a Fight of Flesh and Blood
+      David was a gentle person. Even when mad king Saul was trying to kill him, he never retaliated, knowing Saul was God’s anointed king. David was a compassionate person. He honored Saul’s grandson Mephibosheth and he mourned the death of the enemy general. David was a person of blessing. He earnestly wanted things to turn out well for his descendants, neighbors, and the future of the country. David was a person after God’s own heart.
+      But even this David had a time when he was completely swept up in rage and lost his senses. In the days when he was fleeing from Saul, David sought help from a wealthy landowner named Nabal. Nabal refused his request, however, mocking and insulting him. At this David became violently angry. He mobilized his soldiers, swearing that he would kill all the men in Nabal’s family.
+      At the time, David was a fugitive hunted by the government forces. His food supplies were used up, he was utterly exhausted physically and mentally, and he was barely able to care for himself, let alone care for the 600 or so soldiers who were following him. As he was pushed closer and closer to the edge, the extreme tension and stress of his situation had build, until finally it exploded at Nabal’s ungrateful attitude. In this destructive rage and impulsive actions David didn’t look so different from Saul. In that one moment he lost all rational judgment. The holiness he had learned while living as a fugitive, his identity as an anointed king, even the eyes of faith that let him view his enemy Saul as a man of God - all were gone. At that moment David only saw Nabal, and felt that his fury would abate only if Nabal were killed. He wanted to pay back all the scorn and contempt Nabal had shown. David’s rage began to flare up, fueled by his exhaustion and stress. No one could stop him. He was about to commit murder.
+      Right at that moment, Nabal’s wife Abigail came before David bowing low and saying “Paying back your enemies is not something for you to do. God did not lead you all this way to shed innocent blood because of a foolish man like Nabal.” Through Abigail’s words, David heard the voice of God. Then and only then could he control himself and let go of his fury. He realized that he hadn’t been able to discern what and how he needed to fight.
+  Some focus on other people’s problems and grow angry at weaknesses and mistakes. Rather than covering up faults, they openly and habitually gossip about them. Even in churches and communities of faith these people exist.
+  To be Christian is to be a ‘Child of God’. We should be seeing with his eyes, thinking like him, seeking his wisdom. Whatever situation or person we are dealing with, we need spiritual vision, not eyes of flesh and blood, to see and judge rightly.
+  “I tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.” (1 Corinthians 15:50)
+  “For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places.” (Ephesians 6:12)
+
+  Right now Satan makes us see only what he wants us to see. This is his first strategy for preventing us from living according to the Lord’s will. After pouring out all our energy and attention on things of flesh and blood, we forget the things that are truly important. We must not lose to Satan. Even when we run up against something that is hard to endure, we must not respond according to our fleshly nature. We must respond in the faith that God is with us in all circumstances. We must distinguish between wordly causes and spiritual causes, between what we should rightly do and what we should entrust to God, and then we have to choose how we will react.
+  We have been called to do the work of God. If we follow the flesh and worldly ways, in the end we won’t be able to carry out his work. Therefore we must stop directing our eyes and our attention to the wrong things. Right now where is your focus?

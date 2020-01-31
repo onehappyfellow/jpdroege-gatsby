@@ -1,6 +1,8 @@
 ---
-pageNumber: 23
-draft: false
+date: 2020-01-31T17:25:31.693Z
+title: Chapter 13
+pageNumber: 57
+draft: true
 
 part:
     number: 2
@@ -8,7 +10,7 @@ part:
     en: "A Great Masterpiece, me"
 
 chapter:
-    number: 4
+    number: 13
     ko: "있는 모습 그대로 나아가기"
     en: "Moving Forward as I am"
 ---
