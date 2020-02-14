@@ -2,6 +2,7 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 
 const handler = async (event, context, callback) => {
+    console.log(event)
     const { search, version } = event.queryStringParameters;
     const url = `https://www.biblegateway.com/passage/?search=${encodeURIComponent(search)}&version=${version}`
     console.log("GET ", url)

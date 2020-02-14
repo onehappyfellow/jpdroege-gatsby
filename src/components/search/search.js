@@ -33,8 +33,11 @@ class SearchForm extends React.Component {
             loadingState: "loading",
         })
 
-        let lambda = process.env === 'production' ? '/.netlify/functions' : '/localhost:9000'
-        fetch(`${lambda}/bible?search=${encodeURIComponent(lastSearch)}&version=${this.state.version}`)
+        // let lambda = process.env === 'production' ? '/.netlify/functions' : '/localhost:9000'
+        let lambda = "http://localhost:9000/.netlify/functions"
+        let url = `${lambda}/bible?search=${encodeURIComponent(lastSearch)}&version=${this.state.version}`
+        console.log(url)
+        fetch(url, { mode: 'no-cors'})
             .then(res => {
                 console.log("RESPONSE",res.status)
                 if (res.status == 200) {
